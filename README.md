@@ -1,3 +1,7 @@
+[![Python application test with Github Actions](https://github.com/VijiKaushik/Multi_Cloud/actions/workflows/blank.yml/badge.svg)](https://github.com/VijiKaushik/Multi_Cloud/actions/workflows/blank.yml)
+
+
+
 # Multi_Cloud
 This is a sample Github Repo for Multi-Cloud. For Azure, AWS and GCP
 1. Create virtual environment and source
