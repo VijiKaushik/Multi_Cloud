@@ -1,4 +1,4 @@
-[![Python application test with Github Actions](https://github.com/VijiKaushik/Multi_Cloud/actions/workflows/blank.yml/badge.svg)](https://github.com/VijiKaushik/Multi_Cloud/actions/workflows/blank.yml)
+[![Python application test with Github Actions](https://github.com/VijiKaushik/Multi_Cloud/actions/workflows/main.yml/badge.svg)](https://github.com/VijiKaushik/Multi_Cloud/actions/workflows/main.yml)
 
 
 
